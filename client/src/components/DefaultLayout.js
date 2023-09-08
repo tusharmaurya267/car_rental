@@ -63,7 +63,7 @@ function DefaultLayout(props) {
 
            
 
-           <p>Divyansh Pandey</p>
+           <p>Tushar Maurya</p>
           
       </div>
     </div>
